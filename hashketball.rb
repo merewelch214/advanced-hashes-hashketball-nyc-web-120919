@@ -266,6 +266,6 @@ def long_name_steals_a_ton?()
       end
     end
   end
-  return long_name == p_nam
+  return long_name == p_name
 end
   
