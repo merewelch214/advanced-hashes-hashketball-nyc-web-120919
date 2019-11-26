@@ -254,7 +254,7 @@ def player_with_longest_name()
   p_name 
 end  
 
-def longs_name_steals_a_ton()
+def long_name_steals_a_ton?()
   
 end
   
