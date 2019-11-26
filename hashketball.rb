@@ -256,6 +256,7 @@ end
 
 def long_name_steals_a_ton?()
   num_steals = 0
+  p_name = ""
   long_name = player_with_longest_name
   full_hash = game_hash()
   full_hash.each do |a, v| 
